@@ -3,7 +3,15 @@ run = "python3 main.py"
 
 # The primary language of the repl. There can be others, though!
 language = "python3"
-entrypoint = "main.py"
+
+
+# entrypoint = "main.py"
+# entrypoint = "aula_02.py"
+entrypoint = "aula_03.py"
+
+
+
+
 # A list of globs that specify which files and directories should
 # be hidden in the workspace.
 hidden = ["venv", ".config", "**/__pycache__", "**/.mypy_cache", "**/*.pyc"]
