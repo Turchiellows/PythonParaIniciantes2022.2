@@ -6,8 +6,8 @@ language = "python3"
 
 
 # entrypoint = "main.py"
-# entrypoint = "aula_02.py"
-entrypoint = "aula_03.py"
+entrypoint = "aula_02.py"
+# entrypoint = "aula_03.py"
 
 
 
