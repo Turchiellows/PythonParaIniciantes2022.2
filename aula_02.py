@@ -1,9 +1,18 @@
+# CABEÇALHO
 print('#' * 80)
 print('Início da aula 2'.upper())
 print('#' * 80)
 print()
 
 
+
+
+
+
+
+
+
+# INPUT E IF
 nome = str(input('Digite seu nome: '))
 idade = int(input('Qual dua idade? '))
 genero = int(input('Gênero:\n1 - Masculino\n2 - Feminino\nComo você se identifica? '))
@@ -24,6 +33,7 @@ else:
 print()
 print('-' * 80)
 print()
+
 aluno = str(input('Qual seu nome: '))
 nota = float(input('Qual sua nota: '))
 if nota == 10:
@@ -37,6 +47,15 @@ print()
 print('-' * 80)
 print()
 
+
+
+
+
+
+
+
+
+# WHILE
 x = 1
 while x <= 10:
 	print(f'{x}')
